@@ -1,16 +1,16 @@
 {
-  "name": "eslint-config-flying-rocket",
-  "description": "Awesome Eslint Configuration I use",
+  "name": "eslint-config-uforce",
+  "description": "Awesome Eslint Configuration",
   "version": "1.0.1",
   "author": {
-    "name": "Sara Vieira",
-    "email": "hey@iamsaravieira.com",
-    "url": "http://iamsaravieira.com/"
+    "name": "Parminder Klair",
+    "email": "hi@klair.co",
+    "url": "http://www.klair.co"
   },
   "bugs": {
-    "url": "https://github.com/SaraVieira/eslint-config-flying-rocket/issues"
+    "url": "https://github.com/perminder-klair/eslint-config-uforce/issues"
   },
-  "homepage": "https://github.com/SaraVieira/eslint-config-flying-rocket",
+  "homepage": "https://github.com/perminder-klair/eslint-config-uforce",
   "keywords": [
     "prettier",
     "check",
@@ -42,7 +42,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/SaraVieira/eslint-config-flying-rocket.git"
+    "url": "git://github.com/SaraVieira/perminder-klair/eslint-config-uforce.git"
   },
   "scripts": {
     "test": "tape test/*.js | tnyan"

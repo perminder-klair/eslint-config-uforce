@@ -45,10 +45,10 @@ module.exports = {
         ]
       }
     ],
-    indent: ['error', 4],
+    indent: ['error', 2],
     'linebreak-style': ['error', 'unix'],
     quotes: ['error', 'single'],
-    semi: ['error', 'never'],
+    semi: ['error', 'always'],
     'react/react-in-jsx-scope': [0]
   }
 };
